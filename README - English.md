@@ -51,5 +51,3 @@ This is an unofficial, free, non-commercial fan translation.
 Harry Potter and the Methods of Rationality was written by Eliezer Yudkowsky. Harry Potter and related characters, settings, and elements belong to J.K. Rowling and the relevant rights holders.
 
 This project is not affiliated with or endorsed by the original creators or rights holders.
-
-No payment is requested or accepted for this translation.
