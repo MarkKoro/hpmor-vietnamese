@@ -49,5 +49,3 @@ Tuyên bố
 Harry Potter and the Methods of Rationality do Eliezer Yudkowsky sáng tác. Harry Potter cùng các nhân vật, bối cảnh và yếu tố liên quan thuộc J.K. Rowling và các chủ sở hữu quyền liên quan.
 
 Dự án này không tuyên bố có sự liên kết hoặc chứng thực từ các tác giả hay chủ sở hữu quyền.
-
-Không yêu cầu hoặc nhận thanh toán cho bản dịch này.
