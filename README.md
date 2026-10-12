@@ -1,1 +1,0 @@
-# hpmor-vietnamese
